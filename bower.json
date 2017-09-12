@@ -1,0 +1,17 @@
+{
+  "name": "Angular2",
+  "authors": [
+    "david mark <markkariuki17@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
